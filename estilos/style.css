@@ -136,6 +136,8 @@ form > a.botao:hover{
 
 form > a.botao > span{
     font-size: 0.8;
+    position: relative;
+    bottom: -7px;
 
 }
 
